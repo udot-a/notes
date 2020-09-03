@@ -11,5 +11,5 @@ then run from work directory next command:
     ### ```npm run test```
 <hr/>
 
-###Screenshot of working application:
+### Screenshot of working application:
 ![Screenshot application](https://github.com/udot-a/notes/raw/master/client/src/assets/appScreen.jpg)
