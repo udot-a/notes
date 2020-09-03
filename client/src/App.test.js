@@ -25,7 +25,7 @@ describe('on page load', () => {
 
   test('Should be change language correctly', async() => {
 
-    await page.click('[data-testId="eng"]')
+    await page.click('[data-testid="eng"]')
 
     const nav = await page.$eval('.navbar-brand', e => e.innerHTML);
 
