@@ -1,0 +1,17 @@
+.wrap {
+  min-width: 100vw;
+  min-height: 100vh;
+  position: relative;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 80vw;
+}
