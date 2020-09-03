@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dfa566c-32ab-46fb-9c3b-22d1c0835ef7" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gpKmecErvue7VWocziFZcdWkJc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/client/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.on page load.Should be change language correctly">
+    <configuration name="on page load " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/client/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/client" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/client/src/App.test.js" />
+      <test-names>
+        <test-name value="on page load " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="on page load .Layout loads correctly on russian language" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/client/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/client" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/client/src/App.test.js" />
+      <test-names>
+        <test-name value="on page load " />
+        <test-name value="Layout loads correctly on russian language" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="on page load" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/client/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/client" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/client/src/App.test.js" />
+      <test-names>
+        <test-name value="on page load" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="on page load.Should be change language correctly" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/client/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/client" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/client/src/App.test.js" />
+      <test-names>
+        <test-name value="on page load" />
+        <test-name value="Should be change language correctly" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:3000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.on page load.Should be change language correctly" />
+        <item itemvalue="Jest.on page load" />
+        <item itemvalue="Jest.on page load " />
+        <item itemvalue="JavaScript Debug.localhost:3000" />
+        <item itemvalue="Jest.on page load .Layout loads correctly on russian language" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dfa566c-32ab-46fb-9c3b-22d1c0835ef7" name="Default Changelist" comment="" />
+      <created>1598806253837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598806253837</updated>
+      <workItem from="1598806254919" duration="4379000" />
+      <workItem from="1598864858970" duration="2958000" />
+      <workItem from="1598941201794" duration="17817000" />
+      <workItem from="1599026175469" duration="25371000" />
+      <workItem from="1599115712580" duration="15510000" />
+    </task>
+    <task id="LOCAL-00001" summary="third commit">
+      <created>1599133803526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599133803526</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1599134228558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599134228558</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1599134813551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599134813551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client" />
+    </ignored-roots>
+    <MESSAGE value="third commit" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598812212955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598812212955" />
+    <state width="1481" height="196" key="GridCell.Tab.0.bottom" timestamp="1599129390327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599129390327" />
+    <state width="1481" height="196" key="GridCell.Tab.0.center" timestamp="1599129390326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599129390326" />
+    <state width="1481" height="196" key="GridCell.Tab.0.left" timestamp="1599129390326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599129390326" />
+    <state width="1481" height="196" key="GridCell.Tab.0.right" timestamp="1599129390327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599129390327" />
+    <state width="1481" height="245" key="GridCell.Tab.1.bottom" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state width="1481" height="245" key="GridCell.Tab.1.center" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state width="1481" height="245" key="GridCell.Tab.1.left" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state width="1481" height="245" key="GridCell.Tab.1.right" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state width="1481" height="245" key="GridCell.Tab.2.bottom" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state width="1481" height="245" key="GridCell.Tab.2.center" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state width="1481" height="245" key="GridCell.Tab.2.left" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state width="1481" height="245" key="GridCell.Tab.2.right" timestamp="1599127085820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1599127085820" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1599134754739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599134754739" />
+    <state x="638" y="308" key="VCS.EditChangelistDialog" timestamp="1599134555689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="308" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1599134555689" />
+    <state x="261" y="80" key="Vcs.Push.Dialog.v2" timestamp="1599134853459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599134853459" />
+    <state x="546" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599134674194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1599134674194" />
+    <state x="517" y="292" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599134844571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="292" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599134844571" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1599028779826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599028779826" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/notes$on_page_load_.info" NAME="on page load  Coverage Results" MODIFIED="1599123960285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
