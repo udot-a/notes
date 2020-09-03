@@ -22,7 +22,7 @@ const MainLayout = ({children}) => {
           <div>
           <span
             className={`badge badge-${lg === "ru" ? "primary" : "secondary"} ${pointer}`}
-            data-testId={"ru"}
+            data-testid={"ru"}
             onClick={clickHandler}
           >
             {"RU"}
@@ -30,7 +30,7 @@ const MainLayout = ({children}) => {
 
             <span
               className={`badge badge-${lg === "eng" ? "primary" : "secondary"} ${pointer}`}
-              data-testId={"eng"}
+              data-testid={"eng"}
               onClick={clickHandler}
             >
             {"ENG"}
