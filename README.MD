@@ -4,7 +4,7 @@ To run this application you need to clone it.
 Type in command line: ```git clone https://github.com/udot-a/notes.git```
 then run from work directory next command: 
 -   for install all project dependencies 
-    ### ```npm install``` #### then ### ```npm run client:install```
+    ### ```npm install```  then  ```npm run client:install```
 -   for run application in development mode with automatically running server and client sides
     ### ```npm run dev```
 -   for run e2e test
